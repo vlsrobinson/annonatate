@@ -1,0 +1,35 @@
+---
+canvas: "http://d7f203ab-9fa4-490b-971e-abbe395fd510"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Don't let that fancy hat blow away!",
+            "purpose": "commenting",
+            "creator": {
+                "id": "vlsrobinson",
+                "name": "vlsrobinson"
+            },
+            "created": "2023-05-19T16:04:07.066Z",
+            "modified": "2023-05-19T16:04:11.257Z"
+        }
+    ],
+    "target": {
+        "source": "http://d7f203ab-9fa4-490b-971e-abbe395fd510",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1651.1845703125,956.0907592773438,749.740234375,474.60614013671875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://vlsrobinson.github.io/Test1-Project/manifests/manifest3.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "43b75549-01f6-4b41-97cc-0d7f68262e42.json",
+    "motivation": "commenting"
+}
