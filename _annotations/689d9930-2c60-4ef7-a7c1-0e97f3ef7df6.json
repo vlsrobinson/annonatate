@@ -1,0 +1,35 @@
+---
+canvas: "http://67e97995-cae3-4c19-8345-f2757f4a88c1"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "the Evanston Skyline",
+            "purpose": "commenting",
+            "creator": {
+                "id": "vlsrobinson",
+                "name": "vlsrobinson"
+            },
+            "created": "2023-05-19T16:04:51.610Z",
+            "modified": "2023-05-19T16:04:53.970Z"
+        }
+    ],
+    "target": {
+        "source": "http://67e97995-cae3-4c19-8345-f2757f4a88c1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=2037.82275390625,1340.5361328125,623.505126953125,255.6370849609375"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://vlsrobinson.github.io/Test1-Project/manifests/manifest3.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "689d9930-2c60-4ef7-a7c1-0e97f3ef7df6.json",
+    "motivation": "commenting"
+}
