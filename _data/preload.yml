@@ -1,5 +1,11 @@
 images:
-- 
+- added: '2023-05-19 15:28:44.441924'
+  iiif: true
+  thumbnail: https://iiif.archivelab.org/iiif/pxl-20230228-140132963/full/120,/0/default.jpg
+  title: '[Click to edit label]'
+  url: https://vlsrobinson.github.io/Test1-Project/manifests/manifest3.json
+- null
+manifests: []
 settings:
   tempuser: notenabled
   viewer: default
