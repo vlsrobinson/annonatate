@@ -1,0 +1,35 @@
+---
+canvas: "http://67e97995-cae3-4c19-8345-f2757f4a88c1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Kayaker!",
+            "purpose": "commenting",
+            "creator": {
+                "id": "vlsrobinson",
+                "name": "vlsrobinson"
+            },
+            "created": "2023-05-19T16:04:40.722Z",
+            "modified": "2023-05-19T16:04:42.130Z"
+        }
+    ],
+    "target": {
+        "source": "http://67e97995-cae3-4c19-8345-f2757f4a88c1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=959.1588134765625,1577.468017578125,392.8082275390625,180.8165283203125"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://vlsrobinson.github.io/Test1-Project/manifests/manifest3.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "2c2da7db-20b4-4d72-acdc-d68c802bef9a.json",
+    "motivation": "commenting"
+}
