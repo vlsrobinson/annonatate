@@ -1,0 +1,35 @@
+---
+canvas: "http://67e97995-cae3-4c19-8345-f2757f4a88c1"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "the Chicago skyline",
+            "purpose": "commenting",
+            "creator": {
+                "id": "vlsrobinson",
+                "name": "vlsrobinson"
+            },
+            "created": "2023-05-19T16:05:01.058Z",
+            "modified": "2023-05-19T16:05:05.186Z"
+        }
+    ],
+    "target": {
+        "source": "http://67e97995-cae3-4c19-8345-f2757f4a88c1",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1027.744384765625,1259.48046875,985.13818359375,305.5174560546875"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://vlsrobinson.github.io/Test1-Project/manifests/manifest3.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e993b3fa-6333-4bdf-95f4-e2375431e511.json",
+    "motivation": "commenting"
+}
